@@ -1,0 +1,4 @@
+spring:
+    #<!-- 关闭thymeleaf缓存 开发时使用 否则没有实时画面-->
+    thymeleaf:
+        cache: false

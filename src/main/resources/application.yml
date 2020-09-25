@@ -1,0 +1,6 @@
+#配置tomcat端口号
+server:
+  port: 8889
+spring:
+  profiles:
+    active: dev
